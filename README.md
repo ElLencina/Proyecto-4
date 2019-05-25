@@ -38,7 +38,7 @@ Se sugiere aplicar, sobre un objeto:
 
 - _Texturas de ambiente_. [Guía de cómo generar un mapa en Blender](https://aerotwist.com/tutorials/create-your-own-environment-maps/).
 - _Texturas de desplazamiento_. Los mapas pueden generarse, por ejemplo, con [NormalMap Online](https://cpetry.github.io/NormalMap-Online/).
-- Texturas con mapas de normales. Los mapas pueden generarse, por ejemplo, con [NormalMap Online](https://cpetry.github.io/NormalMap-Online/), [ShaderMap](https://shadermap.com/home/), etc.
+- _Texturas con mapas de normales_. Los mapas pueden generarse, por ejemplo, con [NormalMap Online](https://cpetry.github.io/NormalMap-Online/), [ShaderMap](https://shadermap.com/home/), etc.
 - _Texturas 3D_.
 - Algún otro tipo de textura que no se haya mencionado previamente.
 
